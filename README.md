@@ -7,8 +7,6 @@ This project uses public health data available from HealthData.gov, providing an
 This project uses public health data available from the following sources:
 - [HealthData.gov Dataset](https://data.world/us-hhs-gov/fcdb091a-3d47-4f43-a99c-19c9e95c8ca9): Comprehensive health indicators for community health analysis.
 
-## Business Questions
-
 ## Data Model
 We maintain a structured representation of health data, designed to facilitate in-depth analysis. The Entity-Relationship (ER) diagrams provided illustrate the data models used to represent the complex relationships within the health data.
 
@@ -22,6 +20,8 @@ Central to this project is the county health database, which allows for detailed
 Our project structure aims to address significant health-related questions, such as:
 
 * Identifying states with the highest average poverty levels and their impact on health.
+  [![View in Tableau](http://via.placeholder.com/200x150)]([Your-Tableau-Public-URL](https://public.tableau.com/app/profile/rishabh.chaudhary3253/viz/StatePovertyData/Sheet2?publish=yes))
+
 * Determining the leading causes of death by state and their potential connections to lifestyle choices.
 * Investigating the correlation between physical inactivity and death rates across states.
 ## Scripts and Notebooks
