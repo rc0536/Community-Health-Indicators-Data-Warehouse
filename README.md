@@ -15,6 +15,8 @@ The data undergoes a rigorous ETL process using SQL and Python scripts, ensuring
 
 ## County Health Database
 Central to this project is the county health database, which allows for detailed analysis of health metrics at the local level. It is instrumental for identifying areas most affected by the health conditions under study and for strategizing targeted interventions.
+## ERD
+[![Community Health Indicators Data Warehouse ERD](/path/to/image/representing/ERD.png)](Project ERD.pdf)
 
 ## Business Questions
 Our project structure aims to address significant health-related questions, such as:
