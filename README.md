@@ -20,7 +20,8 @@ Central to this project is the county health database, which allows for detailed
 Our project structure aims to address significant health-related questions, such as:
 
 * Identifying states with the highest average poverty levels and their impact on health.
-  [![View in Tableau](http://via.placeholder.com/200x150)]([Your-Tableau-Public-URL](https://public.tableau.com/app/profile/rishabh.chaudhary3253/viz/StatePovertyData/Sheet2?publish=yes))
+ [![View in Tableau](http://via.placeholder.com/200x150)]([Your-Tableau-Public-URL](https://public.tableau.com/app/profile/rishabh.chaudhary3253/viz/StatePovertyData/Sheet2?publish=yes))
+
 
 * Determining the leading causes of death by state and their potential connections to lifestyle choices.
 * Investigating the correlation between physical inactivity and death rates across states.
