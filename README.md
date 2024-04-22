@@ -20,12 +20,20 @@ Central to this project is the county health database, which allows for detailed
 Our project structure aims to address significant health-related questions, such as:
 
 * Identifying states with the highest average poverty levels and their impact on health.
-[![View in Tableau](https://public.tableau.com/thumb/views/StatePovertyData/Sheet2)](https://public.tableau.com/app/profile/rishabh.chaudhary3253/viz/StatePovertyData/Sheet2?publish=yes)
+[![View State Poverty Data Visualization](https://public.tableau.com/thumb/views/StatePovertyData/Sheet2)](https://public.tableau.com/app/profile/rishabh.chaudhary3253/viz/StatePovertyData/Sheet2?publish=yes)
 
 
 
 * Determining the leading causes of death by state and their potential connections to lifestyle choices.
+[![View Highest Cause of Death per State Visualization](https://public.tableau.com/thumb/views/Highestcauseofdeathperstate/Sheet2)](https://public.tableau.com/app/profile/rishabh.chaudhary3253/viz/Highestcauseofdeathperstate/Sheet2?publish=yes)
+
+
+
+  
 * Investigating the correlation between physical inactivity and death rates across states.
+ [![View Statewise Death and Risk Visualization](https://public.tableau.com/thumb/views/StatewiseDeathandRisk/Sheet3)](https://public.tableau.com/app/profile/rishabh.chaudhary3253/viz/StatewiseDeathandRisk/Sheet3)
+
+  
 ## Scripts and Notebooks
 Each script and notebook contains detailed comments explaining its purpose and functionality within the ETL pipeline, which aids in understanding their role in the overall analytical framework.
 
