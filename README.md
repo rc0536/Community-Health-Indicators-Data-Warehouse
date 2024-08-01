@@ -1,4 +1,4 @@
-#Community Health Status Indicators (CHSI) to Combat Obesity, Heart Disease, and Cancer
+# Community Health Status Indicators (CHSI) to Combat Obesity, Heart Disease, and Cancer
 ## Project Overview
 The Community Health Status Indicators (CHSI) project aims to provide a comprehensive data warehouse that supports the analysis of strategies against obesity, heart disease, and cancer. This initiative compiles community-level health data to identify trends and inform policy decisions.
 
